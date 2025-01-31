@@ -52,18 +52,21 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 
 ## 📸 Screenshots
 
+### 🏠 Tela Todo
+<img src="assets/screenshots/todo.jpg" width="300">
 
-![Home Screen](assets/screenshots/todo.jpg)
+### ✏️ Criar Tarefa
+<img src="assets/screenshots/create.jpg" width="300">
 
+### 🔎 Tela de Pesquisa
+<img src="assets/screenshots/search.jpg" width="300">
 
-![Create Task](assets/screenshots/create.jpg)
+### ✅ Tarefas Concluídas
+<img src="assets/screenshots/done.jpg" width="300">
 
+### 📋 Lista de Tarefas
+<img src="assets/screenshots/todolist.jpg" width="300">
 
-![Completed Tasks](assets/screenshots/search.jpg)
-
-![Done Tasks](assets/screenshots/done.jpg)
-
-![TodoList Tasks](assets/screenshots/todolist.jpg)
 
 ## 📩 Contato
 Se precisar de ajuda, entre em contato:
