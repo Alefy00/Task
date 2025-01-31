@@ -71,5 +71,5 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 ## 📩 Contato
 Se precisar de ajuda, entre em contato:
 📧 **Seu Email**: alefy_sx@hotmail.com  
-💼 **LinkedIn**: [seu-linkedin](https://www.linkedin.com/in/alefy-xavier-developer/)
+💼 **LinkedIn**: [linkedin](https://www.linkedin.com/in/alefy-xavier-developer/)
 
