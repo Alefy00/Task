@@ -35,7 +35,7 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 ## 🚀 Como Executar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/task_manager.git
+   git clone https://github.com/Alefy00/Task.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
